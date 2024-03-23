@@ -24,7 +24,7 @@ This project aims to detect human emotions from images using Convolutional Neura
 
 ## Install dependencies:   
 
-pip install -r requirements.txt
+pip install --upgrade pip
 
 ## To Run
 emotion_detection.py to detect emotions from the images.
