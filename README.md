@@ -1,5 +1,4 @@
 # Emotion_Detection_from_images
-# Emotion_Detection
 # Emotion Detection using Convolutional Neural Networks
 
 ## Introduction
